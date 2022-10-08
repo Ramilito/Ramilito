@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramilito)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramilito&show_icons=true&theme=radical)
 
-- 📫 How to reach me: ...
+## 😂 Here is a random joke!
+![Jokes Card](https://readme-jokes.vercel.app/api)
